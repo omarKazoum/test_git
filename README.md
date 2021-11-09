@@ -25,4 +25,16 @@
  8. Disadvantages: - There is a limited private repository.
 - It supports only Git version control.
 </p>
-<
+<h1>COMMANDS:</h1>
+
+<code>git init</code> (pour initialiser une repo)
+
+<code>git add .</code> (pour ajouter des fichier pour être commit)
+
+<code>git commit -m "" </code>(pour enregistrer les modifications avec un message)
+
+<code>git push</code> (pour envoyer les modifications au serveur git)
+
+<code>git status</code> (pour afficher le statut des fichier)
+
+<code>git remote -v</code> (vérifier si le fichier est une repo)
