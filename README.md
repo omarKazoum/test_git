@@ -27,7 +27,7 @@
 </p>
 <h1>COMMANDS:</h1>
 
-<code>git init</code> (pour initialiser une repo)
+<code>git init</code> (pour initialiser une repo)</br>
 <code>git clone URL . </code>(pour se baser un dépot distant et le modifier)
 
 <code>git add .</code> (pour ajouter des fichier pour être commit)
