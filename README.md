@@ -1,4 +1,4 @@
-<h1>Github VS Hitlab</h1>
+<h1>Github VS Gitlab</h1>
 <h3>GitLab</h3>
 <p>
  1. Developed by: GitLab was developed by Dmitriy Zaporozhets and Valery Sizov.
